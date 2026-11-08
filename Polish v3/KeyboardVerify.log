@@ -1,0 +1,8 @@
+    WARNING: ; (U+003b) is already defined more than once on the keyboard (on VK_OEM_1, ShiftState 'Base' and VK_4, ShiftState 'Ctl+Alt').
+    WARNING: : (U+003a) is already defined more than once on the keyboard (on VK_OEM_1, ShiftState 'Shift' and VK_3, ShiftState 'Ctl+Alt').
+    WARNING: , (U+002c) is already defined more than once on the keyboard (on VK_OEM_COMMA, ShiftState 'Base' and VK_2, ShiftState 'Ctl+Alt').
+    WARNING: < (U+003c) is already defined more than once on the keyboard (on VK_OEM_COMMA, ShiftState 'Shift' and VK_9, ShiftState 'Ctl+Alt').
+    WARNING: . (U+002e) is already defined more than once on the keyboard (on VK_OEM_PERIOD, ShiftState 'Base' and VK_1, ShiftState 'Ctl+Alt').
+    WARNING: > (U+003e) is already defined more than once on the keyboard (on VK_OEM_PERIOD, ShiftState 'Shift' and VK_0, ShiftState 'Ctl+Alt').
+    WARNING: / (U+002f) is already defined more than once on the keyboard (on VK_OEM_2, ShiftState 'Base' and VK_8, ShiftState 'Ctl+Alt').
+    WARNING: ? (U+003f) is already defined more than once on the keyboard (on VK_OEM_2, ShiftState 'Shift' and VK_7, ShiftState 'Ctl+Alt').
